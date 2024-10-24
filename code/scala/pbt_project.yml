@@ -1,0 +1,49 @@
+name: wally.kessler
+description: open architecture
+version: 0.0.1
+author: tjmgrwi5.zrgtbed5@lvggwhf6.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: wallykessler
+  parentArtefactID: team1729807298912
+  buildSystem: maven
+  author: null
+  createdAt: '2024-10-24 22:02:11'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-10-24 22:02:13'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-10-24T22:02:13.499817Z'
+  name: plibMaven
+  version: 8.4.0-SNAPSHOT
+  id: '930628733'
+  createdAt: '2024-10-24T22:02:13.499817Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
